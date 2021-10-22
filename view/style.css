@@ -1,0 +1,69 @@
+#myForm, #myFormUp {
+    display: inline-block;
+    background: rgb(236, 111, 102);
+    border-radius: 6px;
+    min-width: min-content;
+    box-shadow:  3px 3px 5px black;
+    margin: 10px;
+}
+.cad{
+    display: inline-block;
+    padding: 2em auto;
+    margin: 10px;
+}
+.up{
+    display: inline-block;
+    padding: 2em auto;
+    margin: 10px;
+}
+label, input {
+    padding: 2px 2px;
+    display: block;
+    margin: 3px 5px;
+}
+button{
+    margin: 3px;
+    background: rgb(202, 196, 196);
+    padding: 6px;
+    border-radius: 5px;
+}
+button:hover{
+    background: rgb(221, 86, 86);
+    transform: scale(1.08);
+}
+.TituloCad-up{
+    margin: 0 auto;
+}
+.TituloCad{
+    margin: 0 6%;
+    color: rgb(116, 34, 34);
+}
+.peopleCad{
+    display: inline-block;
+    background: rgb(179, 179, 172);
+    width: 300px;
+    margin: 5px ;
+    padding: 5px 5px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgb(71, 71, 69);
+
+}
+body{
+    min-width: min-content;
+    padding: 0 11%;
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h3, h2{
+    color: rgb(94, 94, 87)
+}
+input{
+    width: 140px;
+    padding: 1%;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 2px 2px 3px rgb(88, 88, 85);
+    font-size: 16px;
+    display: inline;
+    background-color: rgb(218, 218, 211);
+    border: none;
+}
+
